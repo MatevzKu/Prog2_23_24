@@ -1,0 +1,3 @@
+C:/Cloud/cCode/23_24/cmake-build-debug/CMakeFiles/23_24.dir
+C:/Cloud/cCode/23_24/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Cloud/cCode/23_24/cmake-build-debug/CMakeFiles/rebuild_cache.dir
