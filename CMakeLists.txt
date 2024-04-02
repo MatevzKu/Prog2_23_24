@@ -16,4 +16,6 @@ add_executable(23_24
         vaja4.c
         vaja4.h
         vaja5.c
-        vaja5.h)
+        vaja5.h
+        vaja6.c
+        vaja6.h)
