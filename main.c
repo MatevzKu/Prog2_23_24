@@ -5,18 +5,21 @@
 #include "vaja4.h"
 #include "vaja5.h"
 #include "vaja6.h"
+#include "vaja7.h"
 #include <stdlib.h>
 #include <math.h>
 
 
 int main() {
-    system("chcp 65001");
+    //system("chcp 65001");
+    printf("Dela\n");
     //printf("bla\n");
     //vajaEna();
     //vajaDve();
     //vajaTri();
     //vajaStiri();
     //vajaPet();
-    vajaSest();
+    //vajaSest();
+    vajaSedem();
     return 0;
 }
