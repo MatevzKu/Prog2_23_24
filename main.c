@@ -7,6 +7,7 @@
 #include "vaja6.h"
 #include "vaja7.h"
 #include "vaja8.h"
+#include "vaja9.h"
 #include <stdlib.h>
 #include <math.h>
 
@@ -22,6 +23,7 @@ int main() {
     //vajaPet();
     //vajaSest();
     //vajaSedem();
-    vajaOsem();
+    //vajaOsem();
+    vajaDevet();
     return 0;
 }
