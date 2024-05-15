@@ -119,6 +119,13 @@ build CMakeFiles/23_24.dir/vaja9.c.obj: C_COMPILER__23_24_unscanned_Debug C$:/Cl
   OBJECT_DIR = CMakeFiles\23_24.dir
   OBJECT_FILE_DIR = CMakeFiles\23_24.dir
 
+build CMakeFiles/23_24.dir/Arduino.c.obj: C_COMPILER__23_24_unscanned_Debug C$:/Cloud/cCode/23_24/Arduino.c || cmake_object_order_depends_target_23_24
+  DEP_FILE = CMakeFiles\23_24.dir\Arduino.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  INCLUDES = -IC:/Cloud/cCode/23_24/.
+  OBJECT_DIR = CMakeFiles\23_24.dir
+  OBJECT_FILE_DIR = CMakeFiles\23_24.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target 23_24
@@ -127,7 +134,7 @@ build CMakeFiles/23_24.dir/vaja9.c.obj: C_COMPILER__23_24_unscanned_Debug C$:/Cl
 #############################################
 # Link the executable 23_24.exe
 
-build 23_24.exe: C_EXECUTABLE_LINKER__23_24_Debug CMakeFiles/23_24.dir/main.c.obj CMakeFiles/23_24.dir/vaja1.c.obj CMakeFiles/23_24.dir/vaja2.c.obj CMakeFiles/23_24.dir/vaja3.c.obj CMakeFiles/23_24.dir/vaja4.c.obj CMakeFiles/23_24.dir/vaja5.c.obj CMakeFiles/23_24.dir/vaja6.c.obj CMakeFiles/23_24.dir/vaja7.c.obj CMakeFiles/23_24.dir/vaja8.c.obj CMakeFiles/23_24.dir/vaja9.c.obj
+build 23_24.exe: C_EXECUTABLE_LINKER__23_24_Debug CMakeFiles/23_24.dir/main.c.obj CMakeFiles/23_24.dir/vaja1.c.obj CMakeFiles/23_24.dir/vaja2.c.obj CMakeFiles/23_24.dir/vaja3.c.obj CMakeFiles/23_24.dir/vaja4.c.obj CMakeFiles/23_24.dir/vaja5.c.obj CMakeFiles/23_24.dir/vaja6.c.obj CMakeFiles/23_24.dir/vaja7.c.obj CMakeFiles/23_24.dir/vaja8.c.obj CMakeFiles/23_24.dir/vaja9.c.obj CMakeFiles/23_24.dir/Arduino.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\23_24.dir

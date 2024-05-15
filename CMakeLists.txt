@@ -24,4 +24,5 @@ add_executable(23_24
         vaja8.c
         vaja8.h
         vaja9.c
-        vaja9.h)
+        vaja9.h
+        Arduino.c)
